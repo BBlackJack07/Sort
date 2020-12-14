@@ -1,0 +1,12 @@
+a.out
+a.exe
+heap
+cheap
+mlheap
+heap.exe
+numbers
+count.py
+*.cm*
+*.o
+.vscode/**
+Makefile
